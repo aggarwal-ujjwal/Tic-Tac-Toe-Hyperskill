@@ -45,8 +45,8 @@ public class Main {
                 validInput = true;
             } catch (Exception e) {
                 System.out.println("You should enter numbers!");
-//                scanner.nextLine(); // clear the invalid input from the scanner buffer
             }
+            //scanner.nextLine(); // clear the invalid input from the scanner buffer
         }
 
 
